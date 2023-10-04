@@ -1,3 +1,4 @@
 tensorflow
 opencv-python-headless==4.5.3.56
+streamlit_drawable_canvas
 
